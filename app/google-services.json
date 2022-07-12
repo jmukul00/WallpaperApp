@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501939168766",
+    "firebase_url": "https://fir-auth-856a9.firebaseio.com",
+    "project_id": "fir-auth-856a9",
+    "storage_bucket": "fir-auth-856a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501939168766:android:937f75b5699850d6e94caf",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501939168766-c2deebtokd620osav10sui8usro520im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0R2DRNSOJd6F_BSAmQA_NbDzlNiPL00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501939168766-c2deebtokd620osav10sui8usro520im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
