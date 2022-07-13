@@ -10,4 +10,6 @@
 
     <color name="primary">#0fa0bf</color>
     <color name="statusBarColor">#0a758c</color>
+
+    <color name="gray">#FFAAAAAA</color>
 </resources>

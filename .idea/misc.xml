@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/WallpaperApp/app/src/main/res/drawable/tab_bg.xml" value="0.149" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApp/app/src/main/res/drawable/tab_color.xml" value="0.149" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApp/app/src/main/res/layout/activity_interest.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/WallpaperApp/app/src/main/res/layout/layout_interest.xml" value="0.25" />
         <entry key="..\:/Users/Mukul/AndroidStudioProjects/WallpaperApp/app/src/main/res/drawable/tab_bg.xml" value="0.1285" />
         <entry key="..\:/Users/Mukul/AndroidStudioProjects/WallpaperApp/app/src/main/res/drawable/tab_color.xml" value="0.1285" />
         <entry key="..\:/Users/Mukul/AndroidStudioProjects/WallpaperApp/app/src/main/res/layout/activity_interest.xml" value="0.21" />
