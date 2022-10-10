@@ -36,7 +36,7 @@ class InterestViewModel: ViewModel(), IAllInterestCallbackListener {
                     val interestModel: InterestModel? =item.getValue(InterestModel::class.java)
                     interestModelList.add(interestModel!!)
                 }
-                Log.d("InterestViewModel", "onDataChange: " + interestModelList)
+                Log.d("InterestViewModel", "onDataChange: $interestModelList")
                 iAllInterestCallbackListener?.onAllInterestLoadSuccess(interestModelList)
 
             }
@@ -51,7 +51,7 @@ class InterestViewModel: ViewModel(), IAllInterestCallbackListener {
     }
 
     override fun onAllInterestLoadSuccess(allInterestModels: ArrayList<InterestModel>) {
-        Log.d("InterestViewModel", "onAllInterestLoadSuccess: " + allInterestModels)
+        Log.d("InterestViewModel", "onAllInterestLoadSuccess: $allInterestModels")
        interestList.value = allInterestModels
     }
 

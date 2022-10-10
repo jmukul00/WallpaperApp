@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottomNavHome"
+        android:icon="@drawable/ic_home_icon"
+        android:title="Home"/>
+
+    <item android:id="@+id/bottomNavCategories"
+        android:icon="@drawable/ic_category_icon"
+        android:title="Categories"/>
+
+    <item android:id="@+id/bottomNavSettings"
+        android:icon="@drawable/ic_settings_icon"
+        android:title="Settings"/>
+
+
+</menu>

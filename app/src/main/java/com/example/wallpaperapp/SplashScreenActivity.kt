@@ -1,8 +1,7 @@
-package com.example.wallpaperapp.ui
+package com.example.wallpaperapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.wallpaperapp.R
 
 class SplashScreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

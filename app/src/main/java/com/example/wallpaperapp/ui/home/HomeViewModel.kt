@@ -1,4 +1,4 @@
-package com.example.wallpaperapp.ui.ui.home
+package com.example.wallpaperapp.ui.home
 
 import androidx.lifecycle.ViewModel
 
